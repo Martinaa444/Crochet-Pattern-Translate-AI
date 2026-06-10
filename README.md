@@ -13,6 +13,7 @@ W repozytorium znajdują się gotowe pliki tekstowe z surowymi wzorami w trzech 
 
 Wzór_1_hiszpański.txt – zawiera terminologię taką jak anillo mágico (am) oraz punto bajo (pb).
 Wzór_2_angielski.txt – zawiera standardowe oznaczenia US, m.in. single crochet (sc) i increase (inc).
+
 Wzór_3_niemiecki.txt – zawiera skróty niemieckie, np. feste Masche (fM) oraz Luftmasche (Lm).
 
 Możesz otworzyć te pliki, skopiować ich zawartość i wkleić bezpośrednio do lewego okna aplikacji, aby zweryfikować poprawność działania kompilatora semantycznego AI.
